@@ -402,6 +402,7 @@ public class MeasureCSV {
 			,"160"
 			,"11.1"
 			,"XXX"
+			,"XXX"
 	};
 
 
